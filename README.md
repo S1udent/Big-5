@@ -4,7 +4,7 @@
 
 ## Содержание
 
-- [Big-5-CV](#Big-5-CV)
+- [Big-5-CV](https://github.com/S1udent/Big-5/blob/main/Big_5_CV.ipynb)
 
 
 ---
